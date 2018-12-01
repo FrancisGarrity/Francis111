@@ -16,7 +16,7 @@ menu: true
 order: 1
 ---
 
-Tallangatta, Vic
+Tallangatta Valley, Vic
 
 <html>
   <head>
