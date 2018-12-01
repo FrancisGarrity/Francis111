@@ -17,3 +17,10 @@ menu: true
 order: 1
 ---
 
+<html>
+  <head>
+      </head>
+  <body>
+    <embed src="assets/Francis Garrity (21).pdf" type="application/pdf"   height="300px" width="100%">
+      </body>
+</html>
