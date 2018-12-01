@@ -35,7 +35,6 @@ order: 1
   </head>
   <body>
 
-    <h1>Gallery made with nanogallery2</h1>
 
     <div ID="ngy2p" data-nanogallery2='{
         "userID": "160787014@N06",
