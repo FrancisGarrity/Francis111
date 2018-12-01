@@ -1,20 +1,3 @@
----
-# file: _featured_categories/gallery.md
-# Featured tags need to have the `list` layout.
-layout: list
-
-# The title of the tag's page.
-title: Gallery
-
-# The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: Gallery
-
-# (Optional) Write a short (~150 characters) description of this featured tag.
-
-# Setting `menu` will generate an entry in the sidebar for this tag.
-menu: true
-order: 1
----
 
 Tallangatta, Vic
 
@@ -86,3 +69,21 @@ Goldfields-Esperance, WA
     
   </body>
 </html>
+
+---
+# file: _featured_categories/gallery.md
+# Featured tags need to have the `list` layout.
+layout: list
+
+# The title of the tag's page.
+title: Gallery
+
+# The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
+slug: Gallery
+
+# (Optional) Write a short (~150 characters) description of this featured tag.
+
+# Setting `menu` will generate an entry in the sidebar for this tag.
+menu: true
+order: 1
+---
