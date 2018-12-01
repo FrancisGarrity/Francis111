@@ -16,6 +16,8 @@ menu: true
 order: 1
 ---
 
+Tallangatta, Vic
+
 <html>
   <head>
     <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
@@ -48,3 +50,8 @@ order: 1
     
   </body>
 </html>
+
+
+---
+
+Goldfields-Esperance, WA
