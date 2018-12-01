@@ -17,4 +17,4 @@ menu: true
 order: 1
 ---
 
-<iframe src="https://drive.google.com/file/d/1kP2z0142QO7gVdhIuWdeQu1WOqnaEgyw/preview" width="800" height="600"></iframe>
+<iframe src="https://drive.google.com/file/d/1kP2z0142QO7gVdhIuWdeQu1WOqnaEgyw/preview" width=pagewidth height="1000"></iframe>
