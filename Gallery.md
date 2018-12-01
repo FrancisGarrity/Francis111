@@ -20,7 +20,7 @@ Tallangatta, Vic
 
 <html>
   <head>
-    <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=0.8, maximum-scale=0.8">
+    <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=0.1, maximum-scale=0.1">
 
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 
