@@ -18,7 +18,5 @@ order: 1
 ---
 
 <html>
-
     <embed src="assets/Francis Garrity (21).pdf" width="800px" height="2100px" />
-
 </html>
