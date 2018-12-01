@@ -17,8 +17,4 @@ menu: true
 order: 1
 ---
 
-<html>
-    <embed src="assets/Francis Garrity (21).pdf" width="800px" height="2100px" />
-</html>
-
-<iframe src="https://docs.google.com/gview?url=http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43934.pdf&embedded=true" style="width: 660px; height:  640px;" frameborder="0"></iframe>
+<iframe src="https://drive.google.com/file/d/1kP2z0142QO7gVdhIuWdeQu1WOqnaEgyw/preview" width="800" height="600"></iframe>
