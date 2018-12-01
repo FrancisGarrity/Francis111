@@ -42,7 +42,7 @@ order: 1
         "photoset": "72157704141006324",
         "thumbnailOpenOriginal": true,
         "thumbnailWidth": "auto",
-        "thumbnailHeight": "170",
+        "thumbnailHeight": "150",
         "thumbnailBorderVertical": 0,
         "thumbnailBorderHorizontal": 0,
         "colorScheme": {
