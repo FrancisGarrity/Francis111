@@ -21,6 +21,6 @@ order: 1
   <head>
       </head>
   <body>
-    <embed src="assets/Francis Garrity (21).pdf" type="application/pdf"   height="300px" width="100%">
+    <embed src="assets/Francis Garrity (21).pdf" width="800px" height="2100px" />
       </body>
 </html>
