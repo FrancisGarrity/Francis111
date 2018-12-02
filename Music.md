@@ -23,3 +23,7 @@ Francis is a passionate clarinettist and saxophonist. He particularly enjoys pla
 ---
 New Zealand Youth Symphonic Winds 2017 - 3rd Clarinet/Bass Clarinet
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dFn6qLjhEcE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+Waikato Youth Symphonic Band 2018 - Bass Clarinet
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Wrx0HmLXgg?start=70" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
