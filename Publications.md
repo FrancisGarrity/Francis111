@@ -14,7 +14,7 @@ description: >
 
 # Setting `menu` will generate an entry in the sidebar for this tag.
 menu: true
-order: 1
+order: 2
 ---
 MSc Thesis
 <iframe src="https://drive.google.com/file/d/1trVOF37whwrYiUV1x-3zPWlakXvOA6PA/preview" width="800" height="800"></iframe>
