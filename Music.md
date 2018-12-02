@@ -19,11 +19,14 @@ order: 3
 ![image blackboard banner here](/assets/img/clarinet-header.jpg)
  
 Francis is a passionate clarinettist and saxophonist. He particularly enjoys playing in orchestral and symphonic band settings. He has been a proud member of the New Zealand Youth Symphonic Winds, the Waikato Youth Symphonic Band, the Trust Waikato Symphony Orchestra and the Hamilton Operatic Society.
+Enjoy the following selected performances:
 
 ---
+
 New Zealand Youth Symphonic Winds 2017 - 3rd Clarinet/Bass Clarinet
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dFn6qLjhEcE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
+
 Waikato Youth Symphonic Band 2018 - Bass Clarinet
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9Wrx0HmLXgg?start=70" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
