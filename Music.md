@@ -14,7 +14,7 @@ slug: Music
 
 # Setting `menu` will generate an entry in the sidebar for this tag.
 menu: true
-order: 3
+order: 4
 ---
 ![image blackboard banner here](/assets/img/clarinet-header.jpg)
  
