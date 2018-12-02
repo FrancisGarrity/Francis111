@@ -1,5 +1,5 @@
 ---
-# file: _featured_categories/blog.md
+# file: _featured_categories/Resume.md
 # Featured tags need to have the `list` layout.
 layout: list
 
