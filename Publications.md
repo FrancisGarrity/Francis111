@@ -28,7 +28,7 @@ Lithological and stratigraphic features of the Waitemata Group, Whangaparoa
 A review of evaporite deposition, diapirism and the structural features and exploration potential of diapirs
 <iframe src="https://drive.google.com/file/d/12jd2C7qZW8FwkHKahGAcDmGpdLPQQto1/preview" width="800" height="800"></iframe>
 ---
-Transfer functions: essential tools in modern Quaternary studies?
-<iframe src="https://drive.google.com/file/d/0ByrQm6NOKRwUeG5JbXVxbHV2Z3M/preview" width="800 height="800"></iframe>
+fff
+<iframe src="https://drive.google.com/file/d/0ByrQm6NOKRwUeG5JbXVxbHV2Z3M/preview" width="640" height="480"></iframe>
 ---
                                                                                                           
