@@ -24,3 +24,6 @@ Graduate Geochemistry Assignment
 ---
 Lithological and stratigraphic features of the Waitemata Group, Whangaparoa
 <iframe src="https://drive.google.com/file/d/1zNxnelnx62eogkyqBPBfIS2q0J1Um9jk/preview" width="800" height="800"></iframe>
+---
+A review of evaporite deposition, diapirism and the structural features and exploration potential of diapirs
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTMZLGc6f5NMJJCLbXyGLHRqbIdzKUTAjyf3lEgWWqvB0sfHDIhuCKoC63qgsBoQgWzGb80wN5BPFPv/pub?embedded=true"></iframe>
