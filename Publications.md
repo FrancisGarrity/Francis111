@@ -4,7 +4,7 @@
 layout: list
 
 # The title of the tag's page.
-title: Publications
+title: Publications and Writing Samples
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
 slug: Publications
@@ -19,4 +19,7 @@ order: 1
 
 
 
-<iframe src="https://drive.google.com/file/d/1kP2z0142QO7gVdhIuWdeQu1WOqnaEgyw/preview" width="800" height="800"></iframe>
+## Graduate Geochemistry Assignment
+---
+
+<iframe src="https://drive.google.com/file/d/0ByrQm6NOKRwUcG13SVdINVd0S1k/preview" width="800" height="800"></iframe>
