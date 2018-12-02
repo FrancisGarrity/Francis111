@@ -26,3 +26,6 @@ New Zealand Youth Symphonic Winds 2017 - 3rd Clarinet/Bass Clarinet
 
 Waikato Youth Symphonic Band 2018 - Bass Clarinet
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9Wrx0HmLXgg?start=70" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Waikato Youth Symphonic Band 2017 - 1st Clarinet
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FWaikatoYouth%2Fvideos%2F1294911183952645%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
