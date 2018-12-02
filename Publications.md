@@ -16,9 +16,8 @@ description: >
 menu: true
 order: 1
 ---
-
-## Thesis
+Thesis
 <iframe src="https://drive.google.com/file/d/1trVOF37whwrYiUV1x-3zPWlakXvOA6PA/preview" width="800" height="800"></iframe>
 ---
-## Graduate Geochemistry Assignment
+Graduate Geochemistry Assignment
 <iframe src="https://drive.google.com/file/d/0ByrQm6NOKRwUcG13SVdINVd0S1k/preview" width="800" height="800"></iframe>
