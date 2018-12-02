@@ -1,3 +1,4 @@
+---
 # file: _featured_categories/Music.md
 # Featured tags need to have the `list` layout.
 layout: list
