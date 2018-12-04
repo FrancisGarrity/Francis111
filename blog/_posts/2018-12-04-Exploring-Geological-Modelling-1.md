@@ -44,4 +44,4 @@ Tutorial 1: Introduction to Leapfrog Geo
   </body>
 </html>
 
-- F. D. A. Garrity, MSc
+-F. D. A. Garrity, MSc
