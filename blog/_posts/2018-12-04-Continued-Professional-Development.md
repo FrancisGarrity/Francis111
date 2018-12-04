@@ -12,4 +12,6 @@ Graduating with an Earth science degree is thus a major milestone, enabling one 
 
 The point at which the geoscientist should begin tracking their professional development thus comes early in the career. The benefits of ongoing skill acquisition and reporting are self-evident: commitment to ongoing development reassures a potential employer of your attention to detail, and that your knowledge of best-practices is up-to-date. Furthermore, records of CPD allow the professional to identify shortcomings and gaps in their knowledge, and thus provide a direction for future improvement. Finally, comprehensive record keeping will ease the eventual application for an AusIMM membership and Chartered Professional status.
 
-I intend to record my own professional development on this site.
+I intend to record my own professional development on this site. To begin with, I have a number of software packages and other concepts I wish to refamiliarize myself with. These include geomodelling (using software such as Leapfrog, Surpac or Vulcan), geochemistry (IoGAS), and spatial tools such as ArcGIS.
+
+-F. D. A. Garrity, MSc
