@@ -8,7 +8,7 @@ description: >
 
 Geological modelling is a fairly new subdiscipline of geology, containing aspects of structural geology and stratigraphy; as well a number of other fields. The ability to create computerized representations of subsurface geology is powerful, particularly when combined with geochemical datasets and geostatistical interpolation techniques. 
 
-Geological modelling software is widely used within the mining industry, and popular packages include Surpac, Vulcan and Leapfrog. I have a strong interest in becoming competent with these packages. To begin with, I will be running through the Leapfrog Geo 4.0 Tutorials (http://help.leapfrog3d.com/Tutorials/Geo/4.0/en-GB/LeapfrogGeoTutorials.pdf), and later creating my own models to refine the skillset.
+Geological modelling software is widely used within the mining industry, and popular packages include Surpac, Vulcan and Leapfrog. I have a strong interest in becoming competent with these packages. To begin with, I will be running through the Leapfrog Geo 4.0  <a href="http://help.leapfrog3d.com/Tutorials/Geo/4.0/en-GB/LeapfrogGeoTutorials.pdf">tutorials</a>, and later creating my own models to refine the skillset.
 
 Tutorial 1: Introduction to Leapfrog Geo 
 
