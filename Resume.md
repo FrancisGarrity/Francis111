@@ -16,13 +16,6 @@ description: >
 menu: true
 order: 1
 ---
-  <html>
-<body>
-  <embed src="assets/FrancisGarrity(21).pdf" width="800" height="800" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
-
-  <embed src="Francis/assets/FrancisGarrity(21).pdf" type="application/pdf"   height="700px" width="500">
-</body>
-</html>
 <iframe src="https://drive.google.com/file/d/1kP2z0142QO7gVdhIuWdeQu1WOqnaEgyw/preview" width="800" height="800"></iframe>
 ### Contacts and Clients
 ---
