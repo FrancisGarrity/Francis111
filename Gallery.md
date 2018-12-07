@@ -15,7 +15,6 @@ slug: Gallery
 menu: true
 order: 3
 ---
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 Tallangatta Valley, Vic
 
 <html>
