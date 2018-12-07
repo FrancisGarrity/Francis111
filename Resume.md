@@ -17,6 +17,7 @@ menu: true
 order: 1
 ---
 <iframe src="https://drive.google.com/file/d/1kP2z0142QO7gVdhIuWdeQu1WOqnaEgyw/preview" width="800" height="800"></iframe>
+<embed src="assets/FrancisGarrity(21).pdf" type="application/pdf"   height="300px" width="100%">
 <embed src="Francis/assets/Francis Garrity (21).pdf" width="800px" height="2100px" />
 <iframe src="assets/Francis Garrity (21).pdf" width="800" height="800"></iframe>
 ### Contacts and Clients
