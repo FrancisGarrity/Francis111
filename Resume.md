@@ -16,9 +16,13 @@ description: >
 menu: true
 order: 1
 ---
-<html>
-<embed src="assets/FrancisGarrity(21).pdf" type="application/pdf"   height="800px" width="100%">
-  </html>
+  <html>
+<body>
+    <object data="assets/FrancisGarrity(21).pdf" type="application/pdf">
+        <embed src="assets/FrancisGarrity(21).pdf" type="application/pdf" />
+    </object>
+</body>
+</html>
 <iframe src="https://drive.google.com/file/d/1kP2z0142QO7gVdhIuWdeQu1WOqnaEgyw/preview" width="800" height="800"></iframe>
 ### Contacts and Clients
 ---
