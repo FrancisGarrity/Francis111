@@ -18,8 +18,7 @@ order: 1
 ---
   <html>
 <body>
-    <object data="assets/FrancisGarrity(21).pdf" type="application/pdf">
-        <embed src="assets/FrancisGarrity(21).pdf" type="application/pdf" />
+  <embed src="Francis/assets/FrancisGarrity(21).pdf" type="application/pdf"   height="700px" width="500">
     </object>
 </body>
 </html>
