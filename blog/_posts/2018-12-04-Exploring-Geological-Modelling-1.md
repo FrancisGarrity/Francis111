@@ -10,8 +10,8 @@ Geological modelling is a fairly new subdiscipline of geology, containing aspect
 
 Geological modelling software is widely used within the mining industry, and popular packages include Surpac, Vulcan and Leapfrog. I have a strong interest in becoming competent with these packages. To begin with, I will be running through the Leapfrog Geo 4.0  <a href="http://help.leapfrog3d.com/Tutorials/Geo/4.0/en-GB/LeapfrogGeoTutorials.pdf">tutorials</a>, and later creating my own models to refine the skillset.
 
-Tutorial 1: Introduction to Leapfrog Geo 
-
+Tutorial 1: Introduction to Leapfrog Geo:
+The first tutorial in this document simply provides an introduction to the Leapfrog Geo interface, including navigation of the project tree. We are also introduced to some of the basic functionality of the software, including displaying drillhole data, defining a model’s boundary, using the slicer to slice objects in the scene, using the moving plane to measure trends, using the ruler to measure distances and creating and evaluating cross sections.
 <html>
   <head>
     <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
